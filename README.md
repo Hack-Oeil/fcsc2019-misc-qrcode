@@ -8,7 +8,7 @@ Origine : [QR Code](https://hackropole.fr/fr/challenges/misc/fcsc2019-misc-qrcod
 
 
 ## Connectez vous en WEBSSH
-> http://loaclhost
+> http://localhost
 
 #### Tentez 
 > nc qrcode.cyrhades.com:4000
