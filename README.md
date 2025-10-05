@@ -11,7 +11,7 @@ Origine : [QR Code](https://hackropole.fr/fr/challenges/misc/fcsc2019-misc-qrcod
 > http://localhost
 
 #### Tentez 
-> nc qrcode.cyrhades.com:4000
+> nc qrcode.cyrhades.fr:4000
 
 
 
