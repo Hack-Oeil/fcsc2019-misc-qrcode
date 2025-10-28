@@ -2,7 +2,7 @@
 
 QR Codes everywhere!
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [QR Code](https://hackropole.fr/fr/challenges/misc/fcsc2019-misc-qrcode/)
 
